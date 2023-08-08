@@ -1,0 +1,10 @@
+.cache
+.config/code-server
+.ipynb_checkpoints
+.ipython/profile_default
+.jarviscloud
+.jupyter
+.local/share
+.gitconfig
+.ipynb_checkpoints
+__pycache__
