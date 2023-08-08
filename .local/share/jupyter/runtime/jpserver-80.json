@@ -1,0 +1,13 @@
+{
+  "base_url": "/060/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 80,
+  "port": 8889,
+  "root_dir": "/home",
+  "secure": false,
+  "sock": "",
+  "token": "VDaB0gyk2dWTzn2sQ_9hFJRZAjre5dlm7SQr5nt2FDAUVsJvtpbDNG9OC581cEkf",
+  "url": "http://92e957cf2c49:8889/060/",
+  "version": "2.5.0"
+}
